@@ -1,3 +1,3 @@
-Learning Git & VCS w/ Andorid Studio # H1
-
-Testing Github while using android studio ## H2
+## Learning Git & VCS w/ Android Studio 
+ 
+Testing git while using android studio. 
