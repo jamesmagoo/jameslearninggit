@@ -1,1 +1,3 @@
-Testing Github while usuing android studio
+Learning Git & VCS w/ Andorid Studio
+
+Testing Github while using android studio
